@@ -25,3 +25,16 @@ public class Class02
       bye.run();
    }
 }
+
+//執行結果
+Hello 1
+Hello 2
+Hello 3
+Hello 4
+Hello 5
+Good bye 1
+Good bye 2
+Good bye 3
+Good bye 4
+Good bye 5
+(d)由Hello開始依序的印出1~5後，再換 Good bye
